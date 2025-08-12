@@ -6,3 +6,9 @@ This is a data science course in python for Universidad del Pacifico
 2. Valeria Lovaton
 3. Milagros Ortiz
 4. Eloy Verde
+
+## List of movies
+1. Jurassic world
+2. The world showman
+3. La vida es bella
+4. Sexto Sentido
