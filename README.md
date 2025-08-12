@@ -18,3 +18,9 @@ This is a data science course in python for Universidad del Pacifico
 2. Al PAccino
 3. Denzel Washintong
 4. Anthony hopkins
+
+## List of Schools
+1. Colegio Guadalupe
+2. Rosa de Santa Maria
+3. Argenina
+4. Edelmira del Pando
